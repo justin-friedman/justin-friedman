@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Accomplished developer with over 10 years of hands-on experience in full stack development
+- Expert in JavaScript, TypeScript, React, Next.js, Node.js, and Nest.js
+- Strong advocate for clear and effective communication, available for video consultations
+
+As an experienced Full Stack Developer, I specialize in creating robust, scalable web applications using React, Next.js, Node.js, and Nest.js. My extensive background in both front-end and back-end development ensures that I deliver seamless and cohesive user experiences.
+
+I am committed to producing high-quality, maintainable code and am dedicated to meeting project deadlines. My approach is driven by innovation and a continuous effort to enhance development processes.
+
+I am excited about the opportunity to discuss your project needs and collaborate to bring your vision to life. Please feel free to reach out to explore how I can contribute to your success.
